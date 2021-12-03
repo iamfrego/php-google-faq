@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-top: 2rem;
+}
+
+header div span {
+    padding-left: 1rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: black;
+}
+
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    padding: 1rem 1rem;
+}
+
+main {
+    width: 70%;
+    margin: auto;
+    padding: 2rem 0;
+}
+
+main p {
+    padding: 1.8rem 0;
+}
+
+.active {
+    color: blue;
+    border-bottom: 3px solid blue;
+}

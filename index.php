@@ -47,7 +47,7 @@ Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescinde
     <header>
         <div>
             <img src="https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg" alt=""
-                height="30px">
+                height="50px">
             <span>Privacy e Termini</span>
         </div>
         <nav>
@@ -64,7 +64,7 @@ Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescinde
                 <li>
                     Tecnologia
                 </li>
-                <li>
+                <li class="active">
                     Domande frequenti
                 </li>
             </ul>
